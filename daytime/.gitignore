@@ -1,6 +1,16 @@
 .DS_Store
 node_modules
-/dist
+src
+audio
+img
+public
+babel.config.js
+deploy.sh
+jsconfig.json
+package-lock.json
+vue.config.js
+
+
 
 
 # local env files
